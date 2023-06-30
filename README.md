@@ -3,7 +3,7 @@
 
 # How can you run this program:
 
-1. Open visual studio installer and choose modifiy
+1. Open visual studio installer.
 2. Choose modifiy of visual studio community
 3. Choose individual components
 4. Search for CLI latest version and press modifiy.
