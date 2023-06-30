@@ -3,7 +3,11 @@
 
 # How can you run this program:
 
-1. Open visual studio installer and go to modifiy
+1. Open visual studio installer and choose modifiy
+2. Choose modifiy of visual studio community
+3. Choose individual components
+4. Search for CLI latest version and press modifiy.
+5. Open googl and search for how to create a C++ GUI file.
 
 # How to change username & password ?
 
