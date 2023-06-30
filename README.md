@@ -3,7 +3,7 @@
 
 # How can you run this program:
 
-1. Open visual studio installer and go to modifi
+1. Open visual studio installer and go to modifiy
 
 # How to change username & password ?
 
